@@ -11,7 +11,7 @@ Bu depo, *Teknolojide Kadın Derneği (Wtech)* ve *SAP* iş birliğiyle düzenle
 - *Saat:* 18:00 – 21:00
 - *Süre:* 2 Ay
 
-## 🧠 Eğitim İçeriği 
+## 🧠 Eğitim İçeriği
 
 - Python Temelleri
 - Numpy & Pandas ile Veri İşleme
