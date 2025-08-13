@@ -15,7 +15,7 @@ Bu depo, *Teknolojide Kadın Derneği (Wtech)* ve *SAP* iş birliğiyle düzenle
 
 - Python Temelleri
 - Numpy & Pandas ile Veri İşleme
-- Veri Görselleştirme (Matplotlib, Seaborn)
+- Veri Görselleştirme (Matplotlib, Seaborn
 - Makine Öğrenmesine Giriş
 - Denetimli ve Denetimsiz Öğrenme Algoritmaları
 - Yapay Sinir Ağlarına Giriş
