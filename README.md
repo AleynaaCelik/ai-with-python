@@ -1,4 +1,4 @@
-# 🤖 Python ile Yapay Zeka Eğitimi – SAP & WtecH
+# 🤖 Python ile Yapay Zeka Eğitimi – SAP & Wtech
 
 Merhaba! Ben Aleyna Çelik
 Bu depo, *Teknolojide Kadın Derneği (Wtech)* ve *SAP* iş birliğiyle düzenlenen  
